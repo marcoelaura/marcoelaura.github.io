@@ -8,3 +8,5 @@ Al momento non abbiamo ancora deciso per la lista nozze. Per suggerimenti scrive
 Stiamo studiando come organizzare la nostra luna di miele; se gradite lasciare un contributo vi indicheremo al più presto come fare.
 Grazie!
 
+
+<img align="right" src="/Contatti/loveis.jpeg" width="100"> 

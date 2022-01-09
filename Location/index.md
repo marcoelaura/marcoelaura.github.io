@@ -3,8 +3,8 @@ layout: default
 title: "Location"
 ---
 
-Il podere Calvanella si trova a circa 45 km di distanza da Bologna ed è immerso nelle colline e calanchi ai piedi del Monte Grande di Montecalderaro.
-Inserito in una rete di agriturismi della zona, se avete bisogno di una stanza per riposarsi dopo i festeggiamenti, contattateci al più presto per consentirci di prenotarvelo.
+<p>Il podere Calvanella si trova a circa 45 km di distanza da Bologna ed è immerso nelle colline e calanchi ai piedi del Monte Grande di Montecalderaro.
+Inserito in una rete di agriturismi della zona, se avete bisogno di una stanza per riposarsi dopo i festeggiamenti, contattateci al più presto per consentirci di prenotarvelo.</p>
 
 <center>
   <iframe src="Maps_1.html" width="500" height="500"></iframe>

@@ -3,7 +3,8 @@ layout: default
 title: "Location"
 ---
 
-<p>Il podere [Calvanella](http://poderecalvanella.wordpress.com/){:target="_blank" rel="noopener"} si trova a circa 45 km di distanza da Bologna ed è immerso nelle colline e calanchi ai piedi del Monte Grande di Montecalderaro.</p>
+Il podere [Calvanella](http://poderecalvanella.wordpress.com){:target="_blank" rel="noopener"} si trova a circa 45 km di distanza da Bologna ed è immerso nelle colline e calanchi ai piedi del Monte Grande di Montecalderaro.
+
 <center>
   <iframe src="Maps_1.html" width="600" height="420"></iframe>
 </center>

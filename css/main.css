@@ -56,3 +56,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+output{
+    after_body: insert-logo.html;
+}
+

@@ -4,14 +4,11 @@ title: "Contatti"
 ---
 
 Per maggiori informazioni:
-![](/UPIT2008.jpeg)
+
 - Scriveteci a: marcoelaura.wedding AT gmail.com
 
-- Marco:
-  - telefono: 3280752821
-  - email: marco.novelli.gr AT gmail.com  
+- Contatti telefonici:
+  - Marco: 3280752821
+  - Laura: 3294741250
   
-- Laura
-  - telefono: 3294741250
-  - email: l.anderlucci AT gmail.com  
  

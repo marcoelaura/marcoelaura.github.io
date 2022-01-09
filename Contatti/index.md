@@ -10,3 +10,6 @@ Contatti telefonici:
 <li><p>Marco: 3280752821</p></li>
 <li><p>Laura: 3294741250</p></li>
 </ul>  
+
+
+<img align="right" src="/Contatti/loveis.jpeg" width="100"> 

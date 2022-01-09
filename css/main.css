@@ -42,7 +42,6 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-    background-image: url('./loveis.jpeg');
 }
 
 nav {
@@ -56,9 +55,5 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-}
-
-output{
-    after_body: insert-logo.html;
 }
 

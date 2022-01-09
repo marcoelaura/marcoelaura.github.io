@@ -4,6 +4,7 @@ title: "Contatti"
 ---
 
 Per maggiori informazioni:
+![](/UPIT2008.jpeg)
 - Scriveteci a: marcoelaura.wedding AT gmail.com
 
 - Marco:

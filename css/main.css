@@ -3,14 +3,13 @@ body {
     width: 70%;
     text-align: justify;
     text-justify: inter-word;
-    background-image: url('logo.jpg');
+    background-image: url('./logo.jpg');
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    <img class="logo shadow" src="./logo.jpg" alt="Cakes by Miranda logo" />
 }
 nav ul li, footer ul li {
     display: inline;

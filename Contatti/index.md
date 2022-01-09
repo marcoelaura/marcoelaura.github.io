@@ -9,8 +9,8 @@ Per maggiori informazioni:
 	<li>Scriveteci a: marcoelaura.wedding AT gmail.com</li>
   <li>Contatti telefonici:
 			<ul>
-        <li>Marco: 3280752821</li>
-        <li>Laura: 3294741250</li>
+				<li><p>Marco: 3280752821</p></li>
+				<li><p>Laura: 3294741250</p></li>
 	    </ul>
 </ul>  
  

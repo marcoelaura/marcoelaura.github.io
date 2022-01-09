@@ -5,10 +5,12 @@ title: "Contatti"
 
 Per maggiori informazioni:
 
-- Scriveteci a: marcoelaura.wedding AT gmail.com
-
-- Contatti telefonici:
-  - Marco: 3280752821
-  - Laura: 3294741250
-  
+<ul>
+	<li>Scriveteci a: marcoelaura.wedding AT gmail.com</li>
+  <li>Contatti telefonici:
+			<ul>
+        <li>Marco: 3280752821</li>
+        <li>Laura: 3294741250</li>
+	    </ul>
+</ul>  
  

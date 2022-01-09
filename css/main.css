@@ -1,7 +1,8 @@
 body {
     margin: 60px auto;
     width: 70%;
-    text-justify: auto;
+    text-align: justify;
+    text-justify: inter-word;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -34,7 +35,8 @@ p {
     line-height: 1.4em;
     color: #333;
     font-family:'Helvetica';
-    text-justify: auto;
+    text-align: justify;
+    text-justify: inter-word;
 }
 footer {
     border-top: 1px solid #d5d5d5;

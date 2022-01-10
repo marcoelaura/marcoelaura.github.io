@@ -4,7 +4,7 @@ title: "Location"
 ---
 <style>
 body {
-  background-image: url('/Contatti/SF2.jpg');
+  background-image: url('/Contatti/SF21.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -24,7 +24,7 @@ Per trovare il percorso più comodo con Google Maps cliccate il
 
 <footer>
 	<ul>
-	   <li><a href="/Contatti/simple_form.html">Scriveteci qui</a></li>
+	   <li><a href="/Contatti/simple_form.html" target="_blank">Scriveteci</a> oppure chiamateci Marco: 3280752821, Laura: 3294741250</li>
 	</ul>
 </footer>
 

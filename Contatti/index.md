@@ -9,7 +9,7 @@ Per maggiori informazioni scriveteci a: marcoelaura.wedding AT gmail.com.
             background-color: #f1f1f1;
             border: none;
             border-radius: 2px;
-            margin-bottom: 12px;
+            margin-bottom: 15px;
             overflow: hidden;
             padding: 0 .625em;
         }
@@ -18,7 +18,7 @@ Per maggiori informazioni scriveteci a: marcoelaura.wedding AT gmail.com.
             cursor: pointer;
             display: inline-block;
             padding: 3px 6px;
-            text-align: right;
+            text-align: center;
             width: 150px;
             vertical-align: top;
         }
@@ -30,12 +30,12 @@ Per maggiori informazioni scriveteci a: marcoelaura.wedding AT gmail.com.
 <center>
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
   <fieldset id="fs-frm-inputs">
-    <label for="full-name">Full Name</label>
-    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
-    <label for="email-address">Email Address</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+    <label for="full-name">Nome e Cognome</label>
+    <input type="text" name="name" id="full-name" placeholder="" required="">
+    <label for="email-address">Email o Cellulare</label>
+    <input type="email" name="_replyto" id="email-address" placeholder="" required="">
     <label for="message">Message</label>
-    <textarea rows="5" name="message" id="message" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
+    <textarea rows="5" name="message" id="message" placeholder="" required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Submit">

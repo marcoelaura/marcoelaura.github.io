@@ -36,7 +36,7 @@ Speriamo di averti con noi nel nostro giorno speciale! Per qualsiasi domanda, no
 </ul>  
 </div>
   <div style="width:50%; float: left; display: inline-block;"><center>
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xjvlkqjn" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Nome e Cognome</label>
     <input type="text" name="name" id="full-name" placeholder="" required="">

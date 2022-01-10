@@ -26,6 +26,12 @@ title: "Contatti"
         input{
             font-size: inherit;
         }
+body {
+  background-image: url('/Contatti/SF2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
     </style>
 Non vediamo l'ora di averti con noi nel nostro giorno speciale! Per qualsiasi domanda, non esitare a contattarci.   
 <center>

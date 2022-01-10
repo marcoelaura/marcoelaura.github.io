@@ -27,7 +27,7 @@ title: "Contatti"
             font-size: inherit;
         }
 body {
-  background-image: url('/Contatti/SF2.jpg');
+  background-image: url('/Contatti/SF21.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;

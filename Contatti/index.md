@@ -43,7 +43,7 @@ Speriamo di averti con noi nel nostro giorno speciale! Per qualsiasi domanda, no
     <label for="email-address">Email o Cellulare</label>
     <input type="email" name="_replyto" id="email-address" placeholder="" required="">
     <label for="message">Il tuo messaggio</label>
-    <textarea rows="5" name="message" id="message" placeholder="" required="Hai intolleranze, allergie o altro da comunicare al catering? Vuoi prenotare il pernottamento?"></textarea>
+    <textarea rows="5" name="message" id="message" placeholder="Hai intolleranze, allergie o altro da comunicare al catering? Vuoi prenotare il pernottamento?" required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Invia">

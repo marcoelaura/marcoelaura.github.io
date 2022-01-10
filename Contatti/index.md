@@ -29,9 +29,9 @@ title: "Contatti"
     </style>
 Non vediamo l'ora di averti con noi nel nostro giorno speciale! Per qualsiasi domanda, non esitare a contattarci.    
   <div style="text-align:center; width:50%; float: left; display: inline-block;"> 
-<p style="text-align:center;font-weight: bold;font-size:28px">Contattaci</p> <br>
-        <p style="text-align:center">Marco: 3280752821</p> <br>
-        <p style="text-align:center">Marco: 3280752821</p>
+<p style="text-align:center;font-weight: bold;font-size:28px; line-height:10px">Contattaci</p> <br>
+        <p style="text-align:center; line-height:16px">Marco: 3280752821</p> <br>
+        <p style="text-align:center; line-height:16px">Laura: 3294741250</p>
 </div>
   <div style="width:50%; float: left; display: inline-block;"><center>
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xjvlkqjn" method="post">

@@ -29,7 +29,7 @@ title: "Contatti"
     </style>
 Per maggiori informazioni scriveteci a: marcoelaura.wedding AT gmail.com.
 Speriamo di averti con noi nel nostro giorno speciale! Per qualsiasi domanda, non esitare a contattarci!    
-  <div style="width:50%; float: left; display: inline-block;"><p style="style="text-align:center;font-size:24px;">Contatti telefonici:</p>  
+  <div style="width:50%; float: left; display: inline-block;"><p style="text-align:center;font-size:24px;">Contatti telefonici:</p>  
 <ul style="list-style-type: none;">
 <li style="list-style-type: none;"><p>Marco: 3280752821</p></li>
 <li style="list-style-type: none;"><p>Laura: 3294741250</p></li>
@@ -38,7 +38,7 @@ Speriamo di averti con noi nel nostro giorno speciale! Per qualsiasi domanda, no
   <div style="width:50%; float: left; display: inline-block;"><center>
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xjvlkqjn" method="post">
   <fieldset id="fs-frm-inputs">
-    <label for="full-name">Nome e Cognome</label>
+    <label for="full-name"><p style="style="font-size:24px;">Nome e Cognome</p></label>
     <input type="text" name="name" id="full-name" placeholder="" required="">
     <label for="email-address">Email o Cellulare</label>
     <input type="email" name="_replyto" id="email-address" placeholder="" required="">

@@ -60,7 +60,7 @@ ul.posts li {
      list-style-type: none;
 }
 
-/* reset */
+/* reset
 form input,
 form select,
 form textarea,
@@ -86,6 +86,7 @@ form legend {
   margin-bottom: 0.5rem;
 }
 /* border, padding, margin, width */
+/*
 form input,
 form select,
 form textarea,
@@ -129,3 +130,4 @@ form [type="reset"]:focus {
 form select {
   text-transform: none;
 }
+*/

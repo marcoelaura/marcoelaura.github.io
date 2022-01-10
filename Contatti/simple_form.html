@@ -6,8 +6,24 @@
     <input type="email" name="_replyto" id="email-address" placeholder="" required="">
     <label for="telephone"><p style="text-align:center;font-size:21px;">Cellulare (Opzionale)</p></label>
     <input type="telephone" name="telephone" id="telephone" placeholder="">
+    <label for="attending"><p style="text-align:center;font-size:21px;">Parteciperai?</p></label>
+    <select name="attending" id="attending">
+        <option value="" selected="" disabled="">Scegli</option>
+        <option value="Yes">Sì</option>
+        <option value="No">No</option>
+    </select>
+    <label for="plus"><p style="text-align:center;font-size:21px;">E quanti sarete, incluso te? (Se ci sono dei bambini specifica nel box sottostante la loro età)</p></label>
+    <select name="plus" id="plus">
+        <option value="0" selected="">0</option>
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+    </select>
     <label for="message"><p style="text-align:center;font-size:21px;">Il tuo messaggio</p></label>
-    <textarea rows="5" name="message" id="message" placeholder="Hai intolleranze, allergie o altro da comunicare al catering? Vuoi prenotare il pernottamento?" required=""></textarea>
+    <textarea rows="5" name="message" id="message" placeholder="Hai intolleranze, allergie o altro da comunicarci? Hai bisogno di un alloggio per riposarti dopo i festeggiamenti?"></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Invia">
@@ -34,7 +50,7 @@
 #fs-frm label,
 #fs-frm legend,
 #fs-frm ::placeholder {
-  font-size: .825rem;
+  font-size: 1.2rem;
   margin-bottom: .5rem;
   padding-top: .2rem;
   display: flex;

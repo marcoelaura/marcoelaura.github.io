@@ -5,6 +5,11 @@ title: "Contatti"
 
 Per maggiori informazioni scriveteci a: marcoelaura.wedding AT gmail.com.
 
+<center>
+  <iframe src="simple_form.html" width="600" height="420"></iframe>
+</center>
+
+
 Contatti telefonici:
 <ul>
 <li><p>Marco: 3280752821</p></li>

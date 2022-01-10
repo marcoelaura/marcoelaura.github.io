@@ -52,5 +52,6 @@ Speriamo di averti con noi nel nostro giorno speciale! Per qualsiasi domanda, no
 
 </div>
     
-</div>
+<div>
 <img align="right" src="/Contatti/loveis.jpeg" width="100"> 
+</div>

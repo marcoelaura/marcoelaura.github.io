@@ -31,7 +31,7 @@ Per maggiori informazioni scriveteci a: marcoelaura.wedding AT gmail.com.
 Speriamo di averti con noi nel nostro giorno speciale! Per qualsiasi domanda, non esitare a contattarci!    
   <div style="text-align:center; width:50%; float: left; display: inline-block;"> 
 <ul style="list-style-type: none;">
-<li style="list-style-type: none;"><p>Contatti telefonici:</p></li>
+<li style="list-style-type: none;"><p style="font-weight: bold;font-size:25px;">Contattaci</p></li>
 <li style="list-style-type: none;"><p>Marco: 3280752821</p></li>
 <li style="list-style-type: none;"><p>Laura: 3294741250</p></li>
 </ul>         
@@ -41,9 +41,9 @@ Speriamo di averti con noi nel nostro giorno speciale! Per qualsiasi domanda, no
   <fieldset id="fs-frm-inputs">
     <label for="full-name"><p style="text-align:center;font-size:21px;">Nome e Cognome</p></label>
     <input type="text" name="name" id="full-name" placeholder="" required="">
-    <label for="email-address"><p style="text-align:center;font-size:21px;">Email o Cellulare</p></label>
+    <label for="email-address"><p style="text-align:center;font-size:21px;">Email</p></label>
     <input type="email" name="_replyto" id="email-address" placeholder="" required="">
-    <label for="telephone">Cellulare (Opzionale)</label>
+    <label for="telephone"><p style="text-align:center;font-size:21px;">Cellulare (Opzionale)</p></label>
     <input type="telephone" name="telephone" id="telephone" placeholder="">
     <label for="message"><p style="text-align:center;font-size:21px;">Il tuo messaggio</p></label>
     <textarea rows="5" name="message" id="message" placeholder="Hai intolleranze, allergie o altro da comunicare al catering? Vuoi prenotare il pernottamento?" required=""></textarea>

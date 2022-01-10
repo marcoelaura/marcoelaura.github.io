@@ -14,8 +14,8 @@ Il podere [Calvanella](http://poderecalvanella.wordpress.com){:target="_blank" r
 
   <div style="text-align:center; width:50%; float: left; display: inline-block;"> 
 	<p style="text-align:center;font-size:25px; line-height:10px">Per trovare il percorso più comodo <\p> <br>
-		<p> con Google Maps <\p> <br> 
-			<p> cliccate il <a href="http://www.google.com/maps/dir//Location,+B%26B+Podere+Calvanella,+Via+Calvanella,+7,+40050+San+Clemente+BO/@44.3288217,11.4558067,13z/data=!4m9!4m8!1m0!1m5!1m1!1s0x132b2e597ff5669d:0xb4d40a1e6a6ae75d!2m2!1d11.4821703!2d44.3288641!3e0" target="_blank">link</a>
+	<p style="text-align:center;font-size:25px; line-height:10px"> con Google Maps <\p> <br> 
+	<p style="text-align:center;font-size:25px; line-height:10px"> cliccate il <a href="http://www.google.com/maps/dir//Location,+B%26B+Podere+Calvanella,+Via+Calvanella,+7,+40050+San+Clemente+BO/@44.3288217,11.4558067,13z/data=!4m9!4m8!1m0!1m5!1m1!1s0x132b2e597ff5669d:0xb4d40a1e6a6ae75d!2m2!1d11.4821703!2d44.3288641!3e0" target="_blank">link</a>
 	</p> 
 </div>
   <div style="width:50%; float: left; display: inline-block;"><center>

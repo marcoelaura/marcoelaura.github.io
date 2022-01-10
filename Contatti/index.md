@@ -29,7 +29,7 @@ title: "Contatti"
     </style>
 Per maggiori informazioni scriveteci a: marcoelaura.wedding AT gmail.com.
 Speriamo di averti con noi nel nostro giorno speciale! Per qualsiasi domanda, non esitare a contattarci!    
-  <div style="width:50%; float: left; display: inline-block;"><p style="color:blue;font-size:18px;">Contatti telefonici:</p>  
+  <div style="width:50%; float: left; display: inline-block;"><p style="color:black;font-size:24px;">Contatti telefonici:</p>  
 <ul>
 <li><p>Marco: 3280752821</p></li>
 <li><p>Laura: 3294741250</p></li>

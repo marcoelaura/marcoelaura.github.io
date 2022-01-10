@@ -4,6 +4,7 @@ title: "Contatti"
 ---
 
 Per maggiori informazioni scriveteci a: marcoelaura.wedding AT gmail.com.
+Speriamo di averti con noi nel nostro giorno speciale! Per qualsiasi domanda, non esitare a contattarci!
 <style>
         fieldset{
             background-color: #f1f1f1;
@@ -51,5 +52,5 @@ Per maggiori informazioni scriveteci a: marcoelaura.wedding AT gmail.com.
 
 </div>
     
-
+</div>
 <img align="right" src="/Contatti/loveis.jpeg" width="100"> 

@@ -4,7 +4,6 @@ body {
     text-align: justify;
     text-justify: inter-word;
     background-image: url('./sfondowebm.jpg');
-    style="background-color:000000;"
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';

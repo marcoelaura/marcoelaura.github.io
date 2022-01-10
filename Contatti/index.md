@@ -28,7 +28,7 @@ title: "Contatti"
         }
     </style>
 Non vediamo l'ora di averti con noi nel nostro giorno speciale! Per qualsiasi domanda, non esitare a contattarci.    
-  <div style="text-align:center; width:50%; float: left; display: inline-block;"> 
+  <div style="text-align:center; width:50%; float: center; display: inline-block;"> 
 <ul style="list-style-type: none;">
 <li style="list-style-type: none;"><p style="font-weight: bold;font-size:28px;">   Contattaci</p></li>
 <li style="list-style-type: none;"><p>Marco: 3280752821</p></li>

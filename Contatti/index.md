@@ -27,14 +27,22 @@ Per maggiori informazioni scriveteci a: marcoelaura.wedding AT gmail.com.
             font-size: inherit;
         }
     </style>
-<center>
+    
+    <div style="display:block; width:100%;">
+  <div style="width:50%; float: left; display: inline-block;">Contatti telefonici:
+<ul>
+<li><p>Marco: 3280752821</p></li>
+<li><p>Laura: 3294741250</p></li>
+</ul>  
+</div>
+  <div style="width:50%; float: left; display: inline-block;"><center>
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Nome e Cognome</label>
     <input type="text" name="name" id="full-name" placeholder="" required="">
     <label for="email-address">Email o Cellulare</label>
     <input type="email" name="_replyto" id="email-address" placeholder="" required="">
-    <label for="message">Message</label>
+    <label for="message">Hai intolleranze, allergie o altro da comunicare al catering?</label>
     <textarea rows="5" name="message" id="message" placeholder="" required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
@@ -42,11 +50,13 @@ Per maggiori informazioni scriveteci a: marcoelaura.wedding AT gmail.com.
 </form>
 </center>
 
-Contatti telefonici:
-<ul>
-<li><p>Marco: 3280752821</p></li>
-<li><p>Laura: 3294741250</p></li>
-</ul>  
+</div>
+</div>
+    
+    
+
+
+
 
 
 <img align="right" src="/Contatti/loveis.jpeg" width="100"> 

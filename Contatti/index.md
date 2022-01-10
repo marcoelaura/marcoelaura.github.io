@@ -28,7 +28,6 @@ Per maggiori informazioni scriveteci a: marcoelaura.wedding AT gmail.com.
         }
     </style>
     
-    <div style="display:block; width:100%;">
   <div style="width:50%; float: left; display: inline-block;">Contatti telefonici:
 <ul>
 <li><p>Marco: 3280752821</p></li>
@@ -42,21 +41,15 @@ Per maggiori informazioni scriveteci a: marcoelaura.wedding AT gmail.com.
     <input type="text" name="name" id="full-name" placeholder="" required="">
     <label for="email-address">Email o Cellulare</label>
     <input type="email" name="_replyto" id="email-address" placeholder="" required="">
-    <label for="message">Hai intolleranze, allergie o altro da comunicare al catering?</label>
-    <textarea rows="5" name="message" id="message" placeholder="" required=""></textarea>
+    <label for="message">Il tuo messaggio</label>
+    <textarea rows="5" name="message" id="message" placeholder="" required="Hai intolleranze, allergie o altro da comunicare al catering? Vuoi prenotare il pernottamento?"></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
-  <input type="submit" value="Submit">
+  <input type="submit" value="Invia">
 </form>
 </center>
 
 </div>
-</div>
     
-    
-
-
-
-
 
 <img align="right" src="/Contatti/loveis.jpeg" width="100"> 

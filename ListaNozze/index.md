@@ -5,12 +5,13 @@ title: Lista Nozze
 
 Come potete immaginare non siamo ancora riusciti a deciderci per una lista nozze...
 
-Stiamo studiando però come organizzare la nostra luna di miele; se gradite lasciare un contributo ecco il nostro IBAN, grazie!
+Stiamo studiando però come organizzare la nostra luna di miele; se gradite darci una mano, potete lasciare un contributo al nostro conto. Grazie di cuore!
 
-NOVELLI MARCO E ANDERLUCCI LAURA
+Novelli Marco e Anderlucci Laura
 
 IT83E0301503200000005976980
 
+(Fineco bank)
 
 <footer>
 <a href="/Contatti/simple_form.html">Per qualsiasi dubbio scriveteci qui</a>

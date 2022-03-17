@@ -14,7 +14,7 @@ IT83E0301503200000005976980
 (Fineco bank)
 
 <footer>
-<a href="/Contatti/simple_form.html">Per qualsiasi dubbio scriveteci qui</a>
+<a href="/Contatti/simple_form.html">Per qualsiasi dubbio scriveteci qui db</a>
 </footer>
 
 <img align="right" src="/Contatti/loveis.jpeg" width="100"> 

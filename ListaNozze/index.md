@@ -7,8 +7,8 @@ Come potete immaginare non siamo ancora riusciti a deciderci per una lista nozze
 
 Stiamo studiando però come organizzare la nostra luna di miele; se gradite lasciare un contributo ecco il nostro IBAM, grazie!
 
-NOVELLI MARCO E ANDERLUCCI LAURA
-IT83E0301503200000005976980
+<!-- NOVELLI MARCO E ANDERLUCCI LAURA
+IT83E0301503200000005976980 -->
 
 
 <footer>

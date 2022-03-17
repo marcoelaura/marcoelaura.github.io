@@ -3,10 +3,13 @@ layout: default
 title: Lista Nozze
 ---
 
-Al momento non abbiamo ancora deciso per la lista nozze. Per suggerimenti scriveteci alla nostra <a href="mailto:marcoelaura.wedding@gmail.com">mail</a>.
+Come potete immaginare non siamo ancora riusciti a deciderci per una lista nozze...
 
-Stiamo studiando come organizzare la nostra luna di miele; se gradite lasciare un contributo vi indicheremo al più presto come fare.
-Grazie!
+Stiamo studiando però come organizzare la nostra luna di miele; se gradite lasciare un contributo ecco il nostro IBAM, grazie!
+
+NOVELLI MARCO E ANDERLUCCI LAURA
+IT83E0301503200000005976980
+
 
 <footer>
 	<ul>

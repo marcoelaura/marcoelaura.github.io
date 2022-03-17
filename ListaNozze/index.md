@@ -7,13 +7,14 @@ Come potete immaginare non siamo ancora riusciti a deciderci per una lista nozze
 
 Stiamo studiando però come organizzare la nostra luna di miele; se gradite lasciare un contributo ecco il nostro IBAN, grazie!
 
-<!-- NOVELLI MARCO E ANDERLUCCI LAURA
-IT83E0301503200000005976980 -->
+NOVELLI MARCO E ANDERLUCCI LAURA
+
+IT83E0301503200000005976980
 
 
 <footer>
 	<ul>
-	   <li><a href="/Contatti/simple_form.html">Scriveteci qui</a></li>
+	   <li><a href="/Contatti/simple_form.html">Per qualsiasi dubbio scriveteci qui</a></li>
 	</ul>
 </footer>
 

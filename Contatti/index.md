@@ -67,7 +67,7 @@ Non vediamo l'ora di averti con noi nel nostro giorno speciale! Per qualsiasi do
 </form></center>
 
 <footer>
-	  pm
+<p style="color:blue;font-size:8px;">dc</p> 
 </footer>
     
 <div>

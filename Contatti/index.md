@@ -68,7 +68,7 @@ Non vediamo l'ora di averti con noi nel nostro giorno speciale! Per qualsiasi do
 
 <footer>
 	<ul>
-	   <li>Marco: 3280752821, Laura: 3294741250</li>
+	   <li>pm</li>
 	</ul>
 </footer>
     

@@ -67,9 +67,7 @@ Non vediamo l'ora di averti con noi nel nostro giorno speciale! Per qualsiasi do
 </form></center>
 
 <footer>
-	<ul>
-	   <li>pm</li>
-	</ul>
+	  pm
 </footer>
     
 <div>

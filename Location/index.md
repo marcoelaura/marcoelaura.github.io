@@ -10,7 +10,7 @@ body {
   background-size: cover;
 }
 </style>
-Il podere [Calvanella](http://poderecalvanella.wordpress.com){:target="_blank" rel="noopener"} si trova a circa 45 km di distanza da Bologna ed è immerso nelle colline e calanchi ai piedi del Monte Grande di Montecalderaro. Inserito in una rete di agriturismi della zona, se avete bisogno di una stanza per riposare dopo i festeggiamenti, <a href="/Contatti/simple_form.html" target="_blank">contattateci</a> al più presto per consentirci di prenotarvelo.
+Il podere [Calvanella](https://www.poderecalvanella.it/){:target="_blank" rel="noopener"} si trova a circa 45 km di distanza da Bologna ed è immerso nelle colline e calanchi ai piedi del Monte Grande di Montecalderaro. Inserito in una rete di agriturismi della zona, se avete bisogno di una stanza per riposare dopo i festeggiamenti, <a href="/Contatti/simple_form.html" target="_blank">contattateci</a> al più presto per consentirci di prenotarvelo.
 
   <div style="text-align:center; width:50%; float: left; display: inline-block; margin-top:1cm"> 
 	<p style="text-align:center;font-size:25px">
